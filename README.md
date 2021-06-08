@@ -12,4 +12,4 @@ CAUCSE 20162191 SangJin Lee(이상진)
 - Anaconda, TensorFlow(GPU enabled), JupyterNotebook
 
 Environment setting done with
-![CUDA toolkit documentation](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
+[CUDA toolkit documentation](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
