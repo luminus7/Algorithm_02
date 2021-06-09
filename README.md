@@ -1,5 +1,16 @@
 ### Algorithm_Lecture (02분반)
 ---
+### Result for assignment submission
+
+[ipynb_file](./test.ipynb)  
+
+[pdf file of ipynb](./)  
+
+[success case image](./success_case.png)  
+
+[failure case image](./failure_case.png)  
+
+---
 ### 2021-1 알고리즘 강의 assignment5을 위한 repository 입니다.
 * Do not use this source code for your algorithm assignment.
 * All responsibility and disadvantages caused by illegal usage of this source code lies in user. (e.g., plagiarism, misuse)
