@@ -18,7 +18,7 @@ Environment setting done with
 ### Traning
 - MNIST handwritten digits classification.
 
-### <span style="color:red">Result for assignment submission</span>
+<span style="color:red">Result for assignment submission</span>
 
 [ipynb_file](./test.ipynb)  
 
