@@ -10,10 +10,12 @@ CAUCSE 20162191 SangJin Lee(이상진)
 
 ### Environment
 - ubuntu 20.04 on WSL2
-- Anaconda, TensorFlow(GPU enabled), JupyterNotebook
+- Anaconda, TensorFlow(CPU enabled), JupyterNotebook
 
 Environment setting done with
 [CUDA toolkit documentation](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
 
 ### Traning
 - MNIST handwritten digits classification.
+
+-> GPU enabled 버전으로 차후 진행해보기
