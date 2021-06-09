@@ -19,9 +19,14 @@ Environment setting done with
 - MNIST handwritten digits classification.
 
 ### Result for assignment submission
-[ipynb_file](./test.ipynb)
-[pdf file of ipynb](./)
-[success case image](./success_case.png)
-[failure case image](./failure_case.png)
+```
+[ipynb_file](./test.ipynb)  
 
+[pdf file of ipynb](./)  
+
+[success case image](./success_case.png)  
+
+[failure case image](./failure_case.png)  
+
+```
 -> GPU enabled 버전으로 차후 진행해보기
