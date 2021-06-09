@@ -2,9 +2,9 @@
 ---
 ### Result for assignment submission
 
-[ipynb_file](./test.ipynb)  
+[ipynb_file](./20162191_result.ipynb)  
 
-[pdf file of ipynb](./)  
+[pdf file of ipynb](./20162191_result.pdf)  
 
 [success case image](./success_case.png)  
 
